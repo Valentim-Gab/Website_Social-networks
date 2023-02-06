@@ -1,7 +1,7 @@
 # Website---social-networks
 Website example with social networks
 ```bash
-Using: {
+Using {
  HTML;
  CSS
 }
